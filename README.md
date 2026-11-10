@@ -12,3 +12,5 @@ Les fichiers sont dans les [Releases](../../releases/latest). Ondo est un lecteu
 
 `demo/ondo-demo.m3u` : vidéos libres de droits (flux de test publics, films Blender CC BY). Lien à ajouter en « Lien M3U » :
 https://raw.githubusercontent.com/dgv-sudo/ondo-tv-downloads/main/demo/ondo-demo.m3u
+
+Films de démo (`demo/films/`) : extraits de *Big Buck Bunny* © 2008 Blender Foundation, licence Creative Commons Attribution 3.0 (https://peach.blender.org). Hébergés ici car les copies publiques (Google, blender.org) ne répondent plus aux apps.
